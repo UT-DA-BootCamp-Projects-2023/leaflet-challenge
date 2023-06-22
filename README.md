@@ -7,6 +7,6 @@ As part of this challenge "Part 1: Create the Earthquake Visualization” activi
 * Each point with a tooltip with magnitude, the location and depth
 
 **--Content in this repository--**
-* index.html - actual deployed HMTL file hosted 
+* index.html - actual deployed HMTL file hosted at https://ut-da-bootcamp-projects-2023.github.io/leaflet-challenge/ 
 * Static folder - contains JS and CSS solved files used for this leaflet - part1 activity
 * Leaflet-Part-1 and Leaflet-Part-2 are starter kit uploaded. please ignore.
